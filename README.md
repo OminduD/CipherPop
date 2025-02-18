@@ -21,7 +21,7 @@ To use this tool, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/CipherPop.git
+    git clone https://github.com/OminduD/CipherPop.git
     cd CipherPop
     ```
 
