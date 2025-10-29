@@ -1,4 +1,4 @@
-mo# CipherPop
+# CipherPop
 
 CipherPop is a cryptographic tool designed to provide strong security for sensitive data through advanced encryption techniques. It ensures data integrity, prevents unauthorized access, and offers an easy-to-use interface for encrypting and decrypting messages or files. Whether you're securing personal information or handling confidential business data, this tool helps you keep your information safe from cyber threats.
 
